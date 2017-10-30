@@ -1,0 +1,16 @@
+## Software libre {#software-libre}
+
+Texto extraído del [curso de Vitalinux](https://www.google.com/url?q=http://wiki.vitalinux.educa.aragon.es/index.php/Introducci%25C3%25B3n%23Vitalinux_es_un_sistema_operativo_libre_de_C.C3.B3digo_Abierto&sa=D&ust=1509364089064000&usg=AFQjCNHCywuxL0bLqsy3VlkW6gqTDrNyfg) en Aularagón.
+
+Una forma de comprender la grandeza de esta característica, la de ser código abierto, sería buscar un símil en otra área de conocimiento, como por ejemplo la cocina:
+
+¿Qué sería una Cocina libre o Cocina Abierta? Una cocina abierta sería aquella donde tanto los ingredientes como el proceso de creación de un plato son de acceso público para que todo aquel que quiera reproducirlo con exactitud pueda hacerlo, dando libertad a poder modificar la lista de ingredientes o pasos a seguir en el proceso de creación, en el caso de considerar que puede mejorarse, y distribuir la nueva receta para que otros puedan disfrutar del nuevo plato confeccionado. Por contra, una cocina cerrada sería aquella donde ni la lista de ingredientes, ni el proceso a seguir puede hacerse pública, y por tanto, no esta permitida su distribución (sería necesario adquirir una licencia para ello) imposibilitando que públicamente pueda disfrutarse de ello, a menos que se pague.
+
+Entonces ... ¿De qué viven aquellos cuyo trabajo gira en torno a la filosofía de código abierto? Para poder comprender este aspecto podríamos retomar el ejemplo de cocina abierta. En el caso de un restaurante que siguiera la filosofía de cocina abierta, sus cocineros podrían obtener beneficios por los siguientes motivos:
+
+*   Preparar los platos a clientes. Aunque los ingredientes y los pasos de preparación son públicos siempre existe un porcentaje de usuarios que preferieren que alguien les prepare el plato de cocina, antes de ponerse a cocinar ellos.
+*   Asesorar a otros restaurantes. Otros restaurantes, advirtiendo los platos que se preparan en el restaurante de código abierto, estarían dispuestos a pagarle para que les asesorasen a la hora de cocinar esos mismos platos u otros similares.
+*   Cursos de formación para formar a clientes y otros cocineros en su forma de cocinar. Clientes apasionados por el tipo de cocina que se cuece en el restaurante de código abierto podrían asistir a cursos de formación donde se les explicaría todos los entresijos necesarios.
+*   Donativos. Otros restaurantes y clientes, interesados en el tipo de cocina que crean los cocineros del restaurante de código abierto, estarían dispuestos a realizar donaciones económicas para que se siguiera creando y liberando nuevos platos de cocina, de los cuales se aprovecharían ellos más tarde.
+
+Si se han entendido las diferentes fuentes de financiación que podrían darse en el caso de una cocina abierta, estas podrían extrapolarse a cualquier otro entorno de producción de código abierto, entre los cuales podrían distinguirse los relativos al software libre (sistemas operativos y aplicaciones libres), y al hardware libre (fabricantes de aparatos electrónicos donde se facilitan los planos y componentes para que cualquiera pueda fabricarse uno propio).
