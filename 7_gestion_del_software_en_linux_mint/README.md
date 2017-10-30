@@ -6,6 +6,6 @@ Una vez que ya nos hemos podido familiarizar con el Sistema Operativo Linux, se 
 
 Pulsa el icono de linux mint o pulsa la tecla windows y busca “gestor de software”
 
-![](images/image28.png)
+![](/images/image28.png)
 
 Es necesario empezar por Orígenes del Software y Actualizaciones para tener claro donde se ubica el software que se acaba instalando en Linux.

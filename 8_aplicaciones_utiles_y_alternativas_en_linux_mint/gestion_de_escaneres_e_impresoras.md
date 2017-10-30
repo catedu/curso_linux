@@ -7,9 +7,9 @@ La configuración de una impresora en Linux/Vitalinux es muy sencillo. A continu
 1.  Conecta la impresora a la red eléctrica y al equipo para que éste la detecte
 2.  Abriremos la búsqueda pulsando el icono de Linux Mint o la tecla Windows y escribimos &quot;Impresoras&quot;
 
-![](images/image23.png)
+![](/images/image23.png)
 
-![](images/image3.png)
+![](/images/image3.png)
 
 1.  Pinchamos sobre el botón asociado a Añadir una nueva Impresora
 2.  Seleccionamos la Impresora Detectada por el sistema Linux que queremos instalar y configurar (p.e. una impresora USB). En el caso de que se trate de una impresora o fotocopiadora en Red deberemos pinchar en Impresora de red e indicar su dirección IP, y seleccionar el protocolo o modo de conexión usado para comunicarse con ella
@@ -18,7 +18,7 @@ La configuración de una impresora en Linux/Vitalinux es muy sencillo. A continu
 
 1.  Indicaremos un Nombre que identifique a la impresora (evitaremos hacer uso de espacios en blanco), una Descripción y una Localización, los cuales nos permitirán identificar ese modelo de impresora a posteriori
 
-![](images/image62.png)
+![](/images/image62.png)
 
 1.  Tras la configuración de la impresora se nos invitará a mandarle un trabajo de prueba y así comprobar su correcto funcionamiento
 2.  Esa ventana de “Propiedades de la impresora” podemos abrirla también haciendo doble clic sobre la impresora en la ventana “Impresoras”.
@@ -30,8 +30,8 @@ La configuración de un escáner en Linux es muy sencillo, ya que no se requiere
 
 La aplicación Simple Scan nos informará en caso de que no detecte ningún escáner conectado
 
-![](images/image31.png)
+![](/images/image31.png)
 
-![](images/image29.png)
+![](/images/image29.png)
 
 Puedes ver la explicación en este videotutorial: [https://youtu.be/-A6CX4exyeg](https://www.google.com/url?q=https://youtu.be/-A6CX4exyeg&sa=D&ust=1509364089264000&usg=AFQjCNEkDedo_CTmsv2HJA1ua30gpgkGEw)

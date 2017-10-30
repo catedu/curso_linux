@@ -4,7 +4,7 @@
 
 Con la finalidad de suavizar al usuario final el paso de Microsoft Windows a Linux, además de crear Interfaces de Usuario y Entornos de Escritorio muy similares a los que existen en Windows, también se ha desarrollado un sofware libre llamado WinE que permite la instalación y ejecución de programas creados para Windows en Linux/Vitalinux.
 
-![](images/image22.png)
+![](/images/image22.png)
 
 WinE nos permite instalar aplicaciones Windows sobre Linux/Vitalinux
 

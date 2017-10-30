@@ -12,13 +12,13 @@ Entre sus características cabría destacar:
 
 Para interactuar con Synaptic simplemente debemos lanzarlo buscando Synaptic
 
-*   ![](images/image6.png)
+*   ![](/images/image6.png)
 *   
-*   ![](images/image49.png)
+*   ![](/images/image49.png)
 *   
-*   ![](images/image55.png)
+*   ![](/images/image55.png)
 *   
-*   ![](images/image43.png)
+*   ![](/images/image43.png)
 
 Este videotutorial resume este apartado: https://www.youtube.com/watch?v=1nni5ikg11Q
 
@@ -26,6 +26,6 @@ Este videotutorial resume este apartado: https://www.youtube.com/watch?v=1nni5ik
 
 Linux Mint dispone de un gestor de Software específico que permite al usuario instalar y desinstalar aplicaciones, al igual que ya hace Synaptic, pudiendo filtrar la búsqueda de una manera categorizada: .
 
-![](images/image48.png)
+![](/images/image48.png)
 
 Para interactuar con El Gestor de Software simplemente debemos lanzarlo buscando  &quot;Gestor de Software ...&quot;&#039;:

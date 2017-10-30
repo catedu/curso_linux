@@ -4,7 +4,7 @@
 
 Vitalinux, como cualquier otro sistema operativo, permite trabajar con unidades de almacenamiento externas tales como CDs/DVDs o memorias USB. Una vez insertado un CD/DVD o memoria USB, Vitalinux lo detectará y nos invitará a abrir dicho dispositivo de almacenamiento. Al mismo tiempo se crearán un acceso directo en el Escritorio y un nuevo marcador en el pcmanfm para poder acceder rápidamente a él.
 
-![](images/image20.png)
+![](/images/image20.png)
 
 Al pinchar una memoria USB se crea un acceso directo en el Escritorio y un marcador en el pcmanfm
 
@@ -37,7 +37,7 @@ Cambiar nombre del Dispositivo
 
 Vamos pues a cambiar el nombre. Abrimos la herramienta de discos (con nuestro pincho insertado por ejemplo, aunque lo podemos insertar una vez abierto el programa) Veremos una interfaz como la que se adjunta en la captura. Aquí es importante reconocer los elementos
 
-![](images/image42.png)
+![](/images/image42.png)
 
 Herramienta de Discos
 
@@ -49,19 +49,19 @@ Nos centramos en éste punto, ya que aquí es donde podremos desmontar el disco 
 
 1.  Seleccionamos el pincho y lo desmontamos. Fijaros que en la zona 2 puedo ver que mi pincho se llama FF4GR.
 
-![](images/image34.png)
+![](/images/image34.png)
 
 Desmontar el disco
 
 1.  Al desmontar habrá desaparecido el acceso desde el escritorio a nuestro dispositivo. Pero podemos Editar sistema de archivos
 
-![](images/image10.png)
+![](/images/image10.png)
 
 Editar la partición para cambiar el nombre
 
 1.  Una vez que cambie el nombre, veremos que en la zona 2 ya aparece nuestro nuevo nombre: MIPINCHO, y puedo montarlo si quiero para tener acceso a él. Si lo hago me aparecerá un acceso al pincho en el escritorio y en el navegador de archivos con el nuevo nombre
 
-![](images/image46.png)
+![](/images/image46.png)
 
 1.  Montar de nuevo el dispositivo
 
@@ -79,13 +79,13 @@ Para llevar a cabo el Formateo, iremos a la misma aplicación de Discos y
 
 1.  Seleccionamos el pincho y lo desmontaremos si estaba montado
 
-![](images/image34.png)
+![](/images/image34.png)
 
 Desmontar el disco
 
 1.  Ahora seleccionaremos la opción de Formatear
 
-![](images/image60.png)
+![](/images/image60.png)
 
 Click Formatear
 
@@ -95,7 +95,7 @@ Click Formatear
 2.  El tipo de Sistema de Archivos
 3.  Podemos darle en éste momento un nombre, por si lo queremos renombrar (lo que hicimos en el punto anterior)
 
-![](images/image24.png)
+![](/images/image24.png)
 
 Opciones de Formateo
 

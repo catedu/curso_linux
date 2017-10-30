@@ -28,11 +28,11 @@ Como es obvio, al ser información pública la password de los usuarios profesor
 
 Cada usuario en Vitalinux tan sólo es propietario del perfil que le pertenece. Se entiendo por perfil el conjunto de directorios y archivos del cual es el propio usuario el propietario, y que por defecto se corresponde con el contenido del directorio ubicado en /home/&lt;nombre-usuario&gt;. Por ejemplo, el usuario profesor es propietario de todo lo que cuelga de /home/profesor y el usuario alumno de lo que hay en /home/alumno.
 
-![](images/image19.png)
+![](/images/image19.png)
 
 El perfil de un usuario esta compuesto por un conjunto de directorios visibles que le pertenecen y que puede modificar
 
-![](images/image64.png)
+![](/images/image64.png)
 
 El perfil de un usuario también esta compuesto por un conjunto de directorios y archivos ocultosque se pueden visualizar pulsando la combinación CONTROL + H
 
@@ -44,6 +44,6 @@ Esto significa que fuera del perfil que le pertenece al usuario, este puede tene
 
 Para poder consultar quien es propietario de un directorio o archivo simplemente hay que pinchar con el botón derecho del ratón sobre él y seleccionar la opción Propiedades, y en la ventana que nos aparezca, pinchar sobre la pestaña permisos.
 
-![](images/image50.png)
+![](/images/image50.png)
 
 Pinchando con el botón derecho del ratón sobre un archivo o directorio podemos consultar sus Propiedades/permisos

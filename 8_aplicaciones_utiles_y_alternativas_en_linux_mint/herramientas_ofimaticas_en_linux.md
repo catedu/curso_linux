@@ -4,7 +4,7 @@
 
 Linux, al igual que Windows, dispone de un paquete de aplicaciones ofimáticas llamado LibreOffice. Es muy importante destacar que LibreOffice es un software libre multiplataforma, lo que significa que está disponible tanto para Linux como para [Windows](https://www.google.com/url?q=https://es.libreoffice.org/descarga/libreoffice-nuevo/?type%3Dwin-x86%26version%3D5.1%26lang%3Des&sa=D&ust=1509364089257000&usg=AFQjCNFchSquhEjDxqHEUmezwcDg5dworw), por lo que puedes instalarlo en tu equipo Windows sin incurrir en ningún tipo de ilegalidad permitiéndote trabajar de una manera similar a como has hecho hasta ahora con el paquete ofimático de Microsoft: [Web de Descargas de LibreOffice](https://www.google.com/url?q=https://es.libreoffice.org/descarga/libreoffice-estable/&sa=D&ust=1509364089257000&usg=AFQjCNEleemE4fMXHRhrn9fg8i3tWo2MPA).
 
-![](images/image36.jpg)
+![](/images/image36.jpg)
 
 El paquete ofimático LibreOffice incorpora aplicaciones equivalentes a las comúnmente usadas en Microsoft Office
 

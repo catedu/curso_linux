@@ -47,7 +47,7 @@ Existen dos alternativas a los clásicos programas usados en Windows para la cre
 
 1.  Instala OpenShot desde el gestor de Software.
 
-![](images/image4.png)
+![](/images/image4.png)
 
 1.  Abre OpenShot,
 2.  Añade una nueva pista, de tal forma que tu proyecto tenga tres pistas: la (pista superior) contendrá los títulos creados, la (pista intermedia) contendrá los archivos de vídeo y la (pista inferior) los archivos de audio

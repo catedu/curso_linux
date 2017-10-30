@@ -12,13 +12,13 @@ Entre sus características cabría destacar:
 
 Para interactuar con Synaptic simplemente debemos lanzarlo pulsando la combinación &quot;CONTROL + ESPACIO&quot;&#039; y tecleando &quot;Synapse ...&quot;&#039;:
 
-*   ![](images/image6.png)
+*   ![](/images/image6.png)
 *   
-*   ![](images/image49.png)
+*   ![](/images/image49.png)
 *   
-*   ![](images/image55.png)
+*   ![](/images/image55.png)
 *   
-*   ![](images/image43.png)
+*   ![](/images/image43.png)
 
 Este videotutorial resume este apartado: https://www.youtube.com/watch?v=1nni5ikg11Q
 
@@ -28,12 +28,12 @@ Vitalinux es una distribución basada en la versión ligera de Ubuntu llamada Lu
 
 Para interactuar con El Centro de Software de Lubuntu simplemente debemos lanzarlo pulsando la combinación &quot;CONTROL + ESPACIO&quot;&#039; y tecleando &quot;Centro de Software ...&quot;&#039;:
 
-*   ![](images/image32.png)
+*   ![](/images/image32.png)
 *   
-*   ![](images/image1.png)
+*   ![](/images/image1.png)
 *   
-*   ![](images/image18.png)
+*   ![](/images/image18.png)
 *   
-*   ![](images/image52.png)
+*   ![](/images/image52.png)
 
 Está explicado en este videotutorial:  [https://www.youtube.com/watch?v=iQNvU481ciY](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiQNvU481ciY&sa=D&ust=1509364089181000&usg=AFQjCNFhH2XA-8N65Z2pWSgLgWktDgk_ew)

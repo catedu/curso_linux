@@ -4,8 +4,8 @@ Para hacernos una idea del concepto, android&#039; (que también es un Linux) ti
 
 En Linux es posible configurar la ubicación de estos repositorios (URLs o direcciones de Internet públicas) con la finalidad de aumentar la cantidad de software disponible y la fiabilidad del servidor que nos lo entrega. No es imprescindible añadir más fuentes de software a las ya incluidas en la instalaciónde Linux Mint. Para añadir un nuevo repositorio busca “fuentes de software”
 
-![](images/image65.png)
+![](/images/image65.png)
 
 Y se añade un repositorio nuevo
 
-![](images/image61.png)
+![](/images/image61.png)

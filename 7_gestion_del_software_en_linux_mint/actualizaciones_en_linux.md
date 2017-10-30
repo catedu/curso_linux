@@ -2,11 +2,11 @@
 
 Para gestionar las actualizaciones en Linux Mint, puedes abrir el Administrador de actualizaciones.
 
-![](images/image5.png)
+![](/images/image5.png)
 
 Al abrirlo, aparecerán las actualizaciones pendientes en los programas y en el SO. Puedes comprobar si hay alguna nueva pulsando “Refrescar”
 
-![](images/image44.png)
+![](/images/image44.png)
 
 Antes de actualizar el Sistema Operativo, tienes que tener muy claro que dispones de una copia de seguridad y tienes que preguntarte si hay una razón para esa actualización.
 

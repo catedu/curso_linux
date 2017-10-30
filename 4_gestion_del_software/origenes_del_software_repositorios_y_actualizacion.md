@@ -6,10 +6,10 @@ Para hacernos una idea del concepto, android&#039; (que también es un Linux) ti
 
 En Linux, y como no, en Vitalinux es posible configurar la ubicación de estos repositorios (URLs o direcciones de Internet públicas) con la finalidad de aumentar la cantidad de software disponible y la fiabilidad del servidor que nos lo entrega. Para configurar todo ello deberemos pulsar la combinación &quot;CONTROL + ESPACIO&quot;&#039; y teclear &quot;Software y Actualizaciones ...&quot;&#039;:
 
-*   ![](images/image2.png)
+*   ![](/images/image2.png)
 *   
-*   ![](images/image58.png)
+*   ![](/images/image58.png)
 *   
-*   ![](images/image21.png)
+*   ![](/images/image21.png)
 *   
-*   ![](images/image51.png)
+*   ![](/images/image51.png)

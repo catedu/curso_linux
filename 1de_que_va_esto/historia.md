@@ -1,6 +1,6 @@
 ## Historia {#historia}
 
-Texto extraído del artículo [GNU/Linux](https://www.google.com/url?q=https://es.wikipedia.org/wiki/GNU/Linux&sa=D&ust=1509364089089000&usg=AFQjCNHOTJVPYiM9Y4S3C6Cf8NL2ntpVEQ) de Wikipedia.![](images/image38.jpg)
+Texto extraído del artículo [GNU/Linux](https://www.google.com/url?q=https://es.wikipedia.org/wiki/GNU/Linux&sa=D&ust=1509364089089000&usg=AFQjCNHOTJVPYiM9Y4S3C6Cf8NL2ntpVEQ) de Wikipedia.![](/images/image38.jpg)
 
 [Richard Matthew Stallman](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Richard_Matthew_Stallman&sa=D&ust=1509364089090000&usg=AFQjCNGybsX_4X4Txgs_Daw9q48UxkJUcw), Fundador del Movimiento del software libre, de la FSF y del Proyecto GNU.
 
@@ -10,7 +10,7 @@ El proyecto [GNU](https://www.google.com/url?q=https://es.wikipedia.org/wiki/GNU
 
 En este momento entra en juego [Linus Torvalds](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Linus_Torvalds&sa=D&ust=1509364089098000&usg=AFQjCNH2_JWWhr0Kjkw9GlR5JsvMJyIPvg), estudiante finlandés que en 1991 libera la pata que le faltaba a la silla: el kernel o núcleo. Él mismo declaró que si el núcleo de GNU hubiera estado disponible en ese momento, no se habría decidido a escribir el suyo propio.
 
-![](images/image17.jpg)
+![](/images/image17.jpg)
 
 En 1991, mientras asistía a la [Universidad de Helsinki](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Universidad_de_Helsinki&sa=D&ust=1509364089099000&usg=AFQjCNH4tez3zIQ-rLx05LzilwC_c1W0VA), [Linus Torvalds](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Linus_Torvalds&sa=D&ust=1509364089100000&usg=AFQjCNFrqDIou0mwdcv1zg27BI82t5ffkg) se interesó por los sistemas operativos y, frustrado por la concesión de licencias que utilizaba [MINIX](https://www.google.com/url?q=https://es.wikipedia.org/wiki/MINIX&sa=D&ust=1509364089100000&usg=AFQjCNEDZl0SnOh8lOcL05DIhFZ7NPsm1w) que en ese momento se limitaba a uso educativo, comenzó a trabajar en su propio núcleo del sistema operativo, lo que eventualmente se convirtió en el núcleo de Linux.
 

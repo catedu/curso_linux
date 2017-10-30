@@ -6,9 +6,9 @@ Con la finalidad de suavizar al usuario final el paso de Microsoft Windows a Lin
 
 Para instalarlo debes buscar Wine en el Gestor de Software e instalarlo:
 
-![](images/image35.png)
+![](/images/image35.png)
 
-![](images/image22.png)
+![](/images/image22.png)
 
 WinE nos permite instalar aplicaciones Windows sobre Linux/Vitalinux
 
@@ -46,7 +46,7 @@ Con la finalidad de evitar lo anterior surge en Linux el software PlayOnLinux. �
 
 Play on linux está disponible también en el Gestor de Software:
 
-![](images/image53.png)
+![](/images/image53.png)
 
 Puede aprender cómo usar PlayOnLinux en este videotutorial:
 

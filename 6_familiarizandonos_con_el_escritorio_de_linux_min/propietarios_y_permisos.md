@@ -1,6 +1,6 @@
 ## Propietarios y Permisos. {#propietarios-y-permisos}
 
-### ![](images/image16.png)
+### ![](/images/image16.png)
 
 ###  {#-0}
 
@@ -26,6 +26,6 @@ Esto significa que fuera del perfil que le pertenece al usuario, este puede tene
 
 Para poder consultar quien es propietario de un directorio o archivo simplemente hay que pinchar con el botón derecho del ratón sobre él y seleccionar la opción Propiedades (o CONTROL + I ), y en la ventana que nos aparezca, pinchar sobre la pestaña permisos.
 
-![](images/image12.png)
+![](/images/image12.png)
 
 Pinchando con el botón derecho del ratón sobre un archivo o directorio podemos consultar sus Propiedades/permisos

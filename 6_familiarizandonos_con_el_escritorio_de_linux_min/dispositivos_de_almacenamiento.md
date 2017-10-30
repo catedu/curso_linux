@@ -17,11 +17,11 @@ Hay dos tareas básicas cuando trabajamos con dispositivos de almacenamiento ext
 
 Para ejecutar éstas y otras acciones disponemos de varias herramientas o trucos, pero nos vamos a centrar en una herramienta muy sencilla disponible en Linux Mint llamada Discos. Para arrancar la aplicación, simplemente buscamos  “Discos” después de clicar el icono de Linux Mint presente en la esquina inferior izquiuerda del escritorio (O la tecla Windows del teclado) y lo podremos lanzar.
 
-![](images/image8.png)
+![](/images/image8.png)
 
 Seleccionamos el disco que queremos modificar y pulsamos el icono de configuración resaltado en la siguiente imagen:
 
-![](images/image47.png)
+![](/images/image47.png)
 
 Al “editar el sistema de archivos” podemos cambiar el nombre de la unidad.
 
@@ -29,7 +29,7 @@ Para poder cambiar el nombre o formatear el disco, este tiene que estar previame
 
 Para poder usar posteriormente ese disco debes volver a montarlo:
 
-![](images/image40.png)
+![](/images/image40.png)
 
 Formatear un dispositivo
 
@@ -45,13 +45,13 @@ Para llevar a cabo el Formateo, iremos a la misma aplicación de Discos y
 
 1.  Seleccionamos el pincho y lo desmontaremos si estaba montado
 
-![](images/image9.png)
+![](/images/image9.png)
 
 Desmontar el disco
 
 1.  Ahora seleccionaremos la opción de Formatear
 
-![](images/image37.png)
+![](/images/image37.png)
 
 Click Formatear
 

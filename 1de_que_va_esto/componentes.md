@@ -6,19 +6,19 @@ GNU/Linux puede funcionar tanto en [entorno gráfico](https://www.google.com/url
 
 Los escritorios más populares en GNU/Linux son: [GNOME](https://www.google.com/url?q=https://es.wikipedia.org/wiki/GNOME&sa=D&ust=1509364089104000&usg=AFQjCNErUlAgfkyswwRxyowhgCQnJU5SzA), [KDE](https://www.google.com/url?q=https://es.wikipedia.org/wiki/KDE&sa=D&ust=1509364089105000&usg=AFQjCNG3ZC6Dgoi6Tj2G9LXRSSkmVek5LQ), [LXDE](https://www.google.com/url?q=https://es.wikipedia.org/wiki/LXDE&sa=D&ust=1509364089105000&usg=AFQjCNEh1PYKKLXXhg8-GiDD5LOScDnDTw), [Xfce](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Xfce&sa=D&ust=1509364089106000&usg=AFQjCNFiadfznpeiYtL3C3qSW-lEXFFH1w), [Unity](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Unity_(entorno_de_escritorio)&sa=D&ust=1509364089106000&usg=AFQjCNGwjaTbMmUz4_53rn_C1sMo5eqL_w), [MATE](https://www.google.com/url?q=https://es.wikipedia.org/wiki/MATE&sa=D&ust=1509364089107000&usg=AFQjCNHRoG45mBVSLAVxWMwTr91VaalmBw) y [Cinnamon](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Cinnamon&sa=D&ust=1509364089107000&usg=AFQjCNFRF1NEmyxC4SaDhLJ7_4ZQiWHy2Q).
 
-![](images/image66.png)
+![](/images/image66.png)
 
 Escritorio [KDE](https://www.google.com/url?q=https://es.wikipedia.org/wiki/KDE&sa=D&ust=1509364089108000&usg=AFQjCNEPNKugeeAs27jnfxCe1IRKFLR_7A) SC 4.10
 
-![](images/image11.png)
+![](/images/image11.png)
 
 Escritorio [GNOME](https://www.google.com/url?q=https://es.wikipedia.org/wiki/GNOME&sa=D&ust=1509364089109000&usg=AFQjCNHVYL-f2ZkmnwkoDBEjL1oDKFDbNw) 3.0
 
-![](images/image7.png)
+![](/images/image7.png)
 
 Escritorio [XFCE](https://www.google.com/url?q=https://es.wikipedia.org/wiki/XFCE&sa=D&ust=1509364089109000&usg=AFQjCNEmFehX5NxUMe3l4G0EWXZ0LjBKAw) 4.4
 
-![](images/image45.png)
+![](/images/image45.png)
 
 Escritorio [LXDE](https://www.google.com/url?q=https://es.wikipedia.org/wiki/LXDE&sa=D&ust=1509364089110000&usg=AFQjCNHLgsIS11-eQnNPXVgQWaqYiSqrrA) 0.5
 
