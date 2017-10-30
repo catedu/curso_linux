@@ -1,9 +1,8 @@
 # Summary
 
 * [prueba](README.md)
-* [](.md)
-* [Introducción](introduccion.md)
-* [ 1.¿De qué va esto?](1de_que_va_esto/README.md)
+* * [Introducción](introduccion.md)
+* [ 1.¿De qué va esto?](1de_que_va_esto/README.md)
   * [Software libre](1de_que_va_esto/software_libre.md)
   * [¿Qué es Linux?](1de_que_va_esto/que_es_linux.md)
   * [Historia](1de_que_va_esto/historia.md)
@@ -19,8 +18,8 @@
   * [Propietarios y Permisos](3_familiarizandonos_con_el_escritorio/propietarios_y_permisos.md)
   * [Dispositivos de Almacenamiento](3_familiarizandonos_con_el_escritorio/dispositivos_de_almacenamiento.md)
 * [4. Gestión del Software](4_gestion_del_software/README.md)
-  * [Orígenes del Software (Repositorios) y Actualizaciones en Vitalinux](4_gestion_del_software/origenes_del_software_repositorios_y_actualizacion.md)
-  * [ ](4_gestion_del_software/.md)
+  * [Orígenes del Software \(Repositorios\) y Actualizaciones en Vitalinux](4_gestion_del_software/origenes_del_software_repositorios_y_actualizacion.md)
+  * [ ](4_gestion_del_software/.md)
   * [Instalando y desinstalando aplicaciones](4_gestion_del_software/instalando_y_desinstalando_aplicaciones.md)
   * [Aplicaciones Windows sobre Linux](4_gestion_del_software/aplicaciones_windows_sobre_linux.md)
 * [5 Aplicaciones útiles y alternativas en Linux.](5_aplicaciones_utiles_y_alternativas_en_linux/README.md)
@@ -33,10 +32,9 @@
   * [Propietarios y Permisos.](6_familiarizandonos_con_el_escritorio_de_linux_min/propietarios_y_permisos.md)
   * [Dispositivos de Almacenamiento](6_familiarizandonos_con_el_escritorio_de_linux_min/dispositivos_de_almacenamiento.md)
 * [7. Gestión del Software en Linux Mint](7_gestion_del_software_en_linux_mint/README.md)
-  * [Orígenes del Software (Repositorios) ](7_gestion_del_software_en_linux_mint/origenes_del_software_repositorios.md)
-  * [Una de las características más importantes del software libre es que su distribución es Libre. Es decir, que podemos coger cualquier programa hecho bajo la licencia de software libre, y además de ser libres para poderlo modificar y mejorar, podemos posteriormente entregarlo a quien queramos y de la forma que queramos. Gracias a esta libertad es posible aglutinar todo el software libre en determinadas ubicaciones de Internet y distribuirlo a quien lo desee de una manera centralizada. Estas ubicaciones se denominan en el mundo linux Repositorios.](7_gestion_del_software_en_linux_mint/una_de_las_caracteristicas_mas_importantes_del_sof.md)
-  * [](7_gestion_del_software_en_linux_mint/.md)
-  * [Instalando y desinstalando aplicaciones](7_gestion_del_software_en_linux_mint/instalando_y_desinstalando_aplicaciones.md)
+  * [Orígenes del Software \(Repositorios\) ](7_gestion_del_software_en_linux_mint/origenes_del_software_repositorios.md)
+  * [Una de las características más importantes del software libre es que su distribución es Libre. Es decir, que podemos coger cualquier programa hecho bajo la licencia de software libre, y además de ser libres para poderlo modificar y mejorar, podemos posteriormente entregarlo a quien queramos y de la forma que queramos. Gracias a esta libertad es posible aglutinar todo el software libre en determinadas ubicaciones de Internet y distribuirlo a quien lo desee de una manera centralizada. Estas ubicaciones se denominan en el mundo linux Repositorios.](7_gestion_del_software_en_linux_mint/una_de_las_caracteristicas_mas_importantes_del_sof.md)
+  * * [Instalando y desinstalando aplicaciones](7_gestion_del_software_en_linux_mint/instalando_y_desinstalando_aplicaciones.md)
   * [Actualizaciones en Linux](7_gestion_del_software_en_linux_mint/actualizaciones_en_linux.md)
   * [Aplicaciones Windows sobre Linux](7_gestion_del_software_en_linux_mint/aplicaciones_windows_sobre_linux.md)
   * [Consola de Linux](7_gestion_del_software_en_linux_mint/consola_de_linux.md)
@@ -44,3 +42,6 @@
   * [Aplicaciones Multimedia](8_aplicaciones_utiles_y_alternativas_en_linux_mint/aplicaciones_multimedia.md)
   * [Herramientas Ofimáticas en Linux](8_aplicaciones_utiles_y_alternativas_en_linux_mint/herramientas_ofimaticas_en_linux.md)
   * [Gestión de Escáneres e impresoras](8_aplicaciones_utiles_y_alternativas_en_linux_mint/gestion_de_escaneres_e_impresoras.md)
+
+
+
