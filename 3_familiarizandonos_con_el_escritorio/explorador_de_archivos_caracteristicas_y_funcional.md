@@ -9,8 +9,7 @@ Entre sus características y funcionalidades más destacables podrían destacars
 1.  Es software libre. Por esta razón cualquier programador puede reutilizar el código y mejorarlo, haciendo que de ello nos beneficiemos toda la comunidad de usuarios.
 2.  Permite la apertura de multiples pestañas, lo que facilita el movimiento de archivos entre diferentes directorios (arrastrar y soltar). Para abrir una nueva pestaña puede teclearse la combinación CONTROL + T
 3.  Permite crear marcadores para acceder de una manera muy rápida a los directorios que elijamos. Estos marcadores se pueden crear pulsando la combinación de teclas CONTROL + D estando situados dentro del directorio al cual queremos crear un acceso rápido
-
-![](images/image13.png)
+![](/images/image13.png)
 
 1.  Pulsando CONTROL+D dentro del directorio deseado podemos crear un marcador asociado a dicho directorio que nos permitirá acceder a su contenido de una manera muy directa
 2.  Permite trabajar con un panel doble facilitando la copia y movimiento de archivos y directorios entre los paneles derecho e izquierdo
