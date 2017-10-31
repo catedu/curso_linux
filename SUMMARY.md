@@ -1,6 +1,6 @@
 # Summary
 
-* [prueba](README.md)
+* [Sobre el curso](README.md)
 * * [Introducción](introduccion.md)
 * [ 1.¿De qué va esto?](1de_que_va_esto/README.md)
   * [Software libre](1de_que_va_esto/software_libre.md)
