@@ -12,13 +12,13 @@ Entre sus características cabría destacar:
 
 Para interactuar con Synaptic simplemente debemos lanzarlo buscando Synaptic
 
-*   ![](/images/image6.png)
-*   
-*   ![](/images/image49.png)
-*   
-*   ![](/images/image55.png)
-*   
-*   ![](/images/image43.png)
+![](/images/image6.png)
+  
+![](/images/image49.png)
+  
+![](/images/image55.png)
+
+![](/images/image43.png)
 
 Este videotutorial resume este apartado: https://www.youtube.com/watch?v=1nni5ikg11Q
 

@@ -39,8 +39,8 @@ Con la finalidad de evitar lo anterior surge en Linux el software PlayOnLinux. �
 
 *   Dispone de un repositorio público de aplicaciones Windows ya testeadas y comprobadas, al estilo Linux. De esta forma, tan sólo tenemos que elegir que programa deseamos instalar y PlayOnLinux hará el resto:
 
-1.  PlayOnLinux se conectará con sus repositorios de Internet para buscar el software deseado. Gracias a esto no tendremos que ir por Internet perdiendo el tiempo buscando software en Sitios Webs como Softtonic
-2.  Descargará de forma desatendida la última versión de ese software que haya sido testeado y comprobado. Gracias a ello no tendremos que desconfiar en lo que nos estamos instalando, además de asegurarnos de que ese software va a funcionar correctamente en Linux
+    1.  PlayOnLinux se conectará con sus repositorios de Internet para buscar el software deseado. Gracias a esto no tendremos que ir por Internet perdiendo el tiempo buscando software en Sitios Webs como Softtonic
+    2.  Descargará de forma desatendida la última versión de ese software que haya sido testeado y comprobado. Gracias a ello no tendremos que desconfiar en lo que nos estamos instalando, además de asegurarnos de que ese software va a funcionar correctamente en Linux
 
 *   En caso de que el software que deseamos instalar no este disponible en los repositorios de PlayOnLinux tendremos la opción de instalarlo igualmente al estilo Wine, pero con la ventaja de que podemos instalar y configurar la versión de Wine que nos interese, además de poder instalar de forma muy sencilla los parches y librerías de Windows que puedan ser requeridos.
 

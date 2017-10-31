@@ -1,3 +1,5 @@
+En esta tercera parte del curso de introducción a Linux se pretende que el usuario se familiarice con el Sistema de Archivos de Linux y la forma que tiene de organizar sus Directorios y Archivos.
+
 ## Explorador de Archivos: Características y Funcionalidades {#explorador-de-archivos-caracter-sticas-y-funcionalidades}
 
 En Linux existen diferentes exploradores de archivos: Nautilus, konqueror, Thunar, etc. Vitalinux, al basarse en la versión ligera de Ubuntu, LUbuntu, hace uso del que supuestamente del explorador que consume menor cantidad de recursos del sistema, llamado pcmanfm.
