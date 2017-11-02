@@ -21,7 +21,8 @@ Para saber m√°s sobre Wine se recomienda dirigirse a los siguientes enlaces:
 
 Puedes observar como usar wine en este videotutorial:
 
-[https://www.youtube.com/watch?v=_e9FvVcEXIk](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_e9FvVcEXIk&sa=D&ust=1509364089186000&usg=AFQjCNH7qltmNKrtCPxkR6GomiG5tbjKGA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_e9FvVcEXIk?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 ### Instalar Aplicaciones Windows sobre Linux/Vitalinux mediante PlayOnLinux {#instalar-aplicaciones-windows-sobre-linux-vitalinux-mediante-playonlinux}
 
@@ -43,4 +44,4 @@ Con la finalidad de evitar lo anterior surge en Linux el software PlayOnLinux. √
 
 Puede aprender como usar PlayOnLinux en este videotutorial:
 
-[https://youtu.be/wULZ-xa3Om0](https://www.google.com/url?q=https://youtu.be/wULZ-xa3Om0&sa=D&ust=1509364089189000&usg=AFQjCNEIRKFQgKbpurAYgpyBhnm9MfOw3A)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wULZ-xa3Om0" frameborder="0" allowfullscreen></iframe>

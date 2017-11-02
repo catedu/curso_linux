@@ -36,4 +36,6 @@ Para interactuar con El Centro de Software de Lubuntu simplemente debemos lanzar
 *   
 *   ![](/images/image52.png)
 
-Está explicado en este videotutorial:  [https://www.youtube.com/watch?v=iQNvU481ciY](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiQNvU481ciY&sa=D&ust=1509364089181000&usg=AFQjCNFhH2XA-8N65Z2pWSgLgWktDgk_ew)
+Está explicado en este videotutorial:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iQNvU481ciY?rel=0" frameborder="0" allowfullscreen></iframe>
