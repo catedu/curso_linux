@@ -24,7 +24,8 @@ La configuración de una impresora en Linux/Vitalinux es muy sencillo. A continu
 2.  Esa ventana de “Propiedades de la impresora” podemos abrirla también haciendo doble clic sobre la impresora en la ventana “Impresoras”.
 3.  Seleccionando “Opciones de la impresora” podemos configurar las opciones por defecto de dicha impresora
 
-### ¿Cómo configurar un escáner USB en Vitalinux? {#c-mo-configurar-un-esc-ner-usb-en-vitalinux}
+
+### ¿Cómo configurar un escáner USB en Linux? {#c-mo-configurar-un-esc-ner-usb-en-vitalinux}
 
 La configuración de un escáner en Linux es muy sencillo, ya que no se requiere hacer absolutamente nada. En el caso de que por algún motivo el escáner no sea correctamente detectado por el sistema la aplicación encargada de escanear (p.e. Simple Scan) nos avisará de ello:
 
@@ -33,5 +34,3 @@ La aplicación Simple Scan nos informará en caso de que no detecte ningún esc�
 ![](/images/image31.png)
 
 ![](/images/image29.png)
-
-Puedes ver la explicación en este videotutorial: [https://youtu.be/-A6CX4exyeg](https://www.google.com/url?q=https://youtu.be/-A6CX4exyeg&sa=D&ust=1509364089264000&usg=AFQjCNEkDedo_CTmsv2HJA1ua30gpgkGEw)
