@@ -19,7 +19,9 @@ Para poder crear un videotutorial puedes emplear muchos métodos:
 2.  Usar la extensión para Chrome [screencastify](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn&sa=D&ust=1509364089249000&usg=AFQjCNE-1SCPwYULFEMcMxUxd6cLJ2mhJg) Es muy intuitiva y sencilla. En su versión gratuita permite crear un video y luego publicarlo en youtube (si dispones cuenta de gmail). También lo puedes descargar (en formato webm no en mp4) y tiene una limitación de 10 min)
 3.  Puedes usar una aplicación de escritorio. Hay muchas, nosotros te proponemos Simple Screen Recorder que a viene preinstalada en Vitalinux.
 
-Si quieres más información sobre el uso de ésta herramienta, puedes consultarla en el siguiente vídeo: [https://www.youtube.com/watch?v=0afD0UQCbiI](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0afD0UQCbiI&sa=D&ust=1509364089249000&usg=AFQjCNG69yLNPMQjkE-mEIBsab4TWBxlXA)
+Si quieres más información sobre el uso de ésta herramienta, puedes consultarla en el siguiente vídeo: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0afD0UQCbiI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Presentaciones Visuales tipo Prezi mediante Sozi {#presentaciones-visuales-tipo-prezi-mediante-sozi}
 
@@ -27,7 +29,9 @@ Es perfectamente posible realizar una presentación al estilo Prezi, pero median
 
 Dos de las aplicaciones multimedia disponibles en Linux son Inkscape (maneja imágenes vectoriales) y Sozi (permite crear una presentación a partir de una imagen vectorial). Es importante destacar, que por problemas de los drivers gráficos de VirtualBox estos programas no se pueden realizar en entorno Virtual, por lo que se requiere de un equipo físico con Linux instalado).
 
-La explicación está detallada en este videotutorial: https://youtu.be/pUeT6Pm5iig
+La explicación está detallada en este videotutorial: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pUeT6Pm5iig?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Creación y Edición de Vídeo mediante PhotofilmStrip &amp; OpenShot {#creaci-n-y-edici-n-de-v-deo-mediante-photofilmstrip-openshot}
 
@@ -59,4 +63,6 @@ Existen dos alternativas a los clásicos programas usados en Windows para la cre
 8.  Crea un nuevo Título Animado en OpenShot para que haga la función de créditos finales del vídeo. Una vez generado, colócalo en la pista correspondiente
 9.  Vuelve a guardar el proyecto y expórtalo a formato Web (Youtube HD)
 
-Tienes este proceso detallado en este videotutorial:  https://youtu.be/i4apQYgv1Vk
+Tienes este proceso detallado en este videotutorial:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i4apQYgv1Vk?rel=0" frameborder="0" allowfullscreen></iframe>
