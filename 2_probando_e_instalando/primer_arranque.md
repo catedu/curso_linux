@@ -6,7 +6,7 @@ Sabiendo las distintas opciones que tenemos para trabajar con Linux, llega el mo
 
 El proceso que verás explicado por Arturo Martín en el siguiente vídeo funciona ndependientemente de la opción que hayas elegido (Linux Mint, Vitalinux o cualquier otra distribución).
 
-[https://youtu.be/NsVrwUFeYrc](https://www.google.com/url?q=https://youtu.be/NsVrwUFeYrc&sa=D&ust=1509364089146000&usg=AFQjCNE4njqeVzcRv2o80v2CluBeeHp5bQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NsVrwUFeYrc?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Puedes encontrar más información [aquí](https://www.google.com/url?q=http://wiki.vitalinux.educa.aragon.es/index.php/Probar%23Instalaci.C3.B3n_de_Vitalinux_usando_VirtualBox&sa=D&ust=1509364089147000&usg=AFQjCNHqLh1Eteh0Erg5SU-N9MWAQBngJw).
 
