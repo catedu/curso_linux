@@ -29,4 +29,4 @@ En concreto, se han desarrollado para Vitalinux EDU DGA diversas funcionalidades
 
 Puedes ver cómo usarlo en este link.
 
-https://youtu.be/idIYc5UG8z0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/idIYc5UG8z0?rel=0" frameborder="0" allowfullscreen></iframe>
