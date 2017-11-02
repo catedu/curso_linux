@@ -8,4 +8,4 @@ Es necesario empezar por Orígenes del Software y Actualizaciones para tener cla
 
 Opcionalmente puedes visualizar el siguiente vídeotutorial que recorre los contenidos de este bloque y te ayudará en tus tareas
 
-[https://www.youtube.com/watch?v=8tBh8yz1FHY](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8tBh8yz1FHY&sa=D&ust=1509364089175000&usg=AFQjCNGqkA3E1AAjukqClWzktujlsFKbVw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8tBh8yz1FHY?rel=0" frameborder="0" allowfullscreen></iframe>
