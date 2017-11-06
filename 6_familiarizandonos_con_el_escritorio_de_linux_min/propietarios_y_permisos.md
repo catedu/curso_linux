@@ -14,7 +14,7 @@ Para gestionar los usuarios, crearlos y otorgarles permisos, así como para camb
 
 ![](/assets/Usuarios y grupos_096.jpg)
 
-Ahí puedes pulsar añadir cuenta para crear una nueva:
+Ahí puedes pulsar añadir cuenta para crear una nueva.
 
 ![](/assets/Usuarios y grupos_097.jpg)
 
