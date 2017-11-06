@@ -41,9 +41,11 @@
 
 ## 6. Familiarizándonos con el escritorio de Linux Mint
 
+* [Escritorio Linux Mint](6_familiarizandonos_con_el_escritorio_de_linux_min/escritorio-linux-mint.md)
 * [Explorador de Archivos: Características y Funcionalidades](6_familiarizandonos_con_el_escritorio_de_linux_min/explorador_de_archivos_caracteristicas_y_funcional.md)
 * [Propietarios y Permisos.](6_familiarizandonos_con_el_escritorio_de_linux_min/propietarios_y_permisos.md)
 * [Dispositivos de Almacenamiento](6_familiarizandonos_con_el_escritorio_de_linux_min/dispositivos_de_almacenamiento.md)
+* [Escritorio extendido](6_familiarizandonos_con_el_escritorio_de_linux_min/escritorio-extendido.md)
 
 ## 7. Gestión del Software
 

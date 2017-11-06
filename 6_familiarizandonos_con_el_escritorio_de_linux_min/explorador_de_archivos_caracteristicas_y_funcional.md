@@ -12,7 +12,12 @@ Al ejecutar el explorador de archivos se abre una ventana donde puedes gestionar
 
 ![](/images/image25.png)
 
-Este explorador de archivos te permite copiar,egar, renombrar y mover los archivos y carpetas de una forma intuitiva y similar a otros sistemas operativos como Windows o MacOS
+Este explorador de archivos te permite copiar,pegar, renombrar y mover los archivos y carpetas de una forma intuitiva y similar a otros sistemas operativos como Windows o MacOS
+
+También te permite buscar archivos y carpetas en el equipo o en diferentes partes de éste pulsando el icono de búsqueda:
+
+![](/assets/Carpeta personal_092.jpg)
+
 
 Entre sus características y funcionalidades más destacables podrían destacarse las siguientes:
 
