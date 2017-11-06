@@ -10,9 +10,18 @@ A diferencia de otros sistemas operativos como Windows, por cuestiones de seguri
 
 Esta es la razón por la que el sistema operativo va a estar pidiéndote la contraseña de administrador para cada acción que requiera dichos permisos.
 
+Para gestionar los usuarios, crearlos y otorgarles permisos, así como para cambiar tu perfil, debes abrir "**Usuarios y grupos**"
+
+![](/assets/Usuarios y grupos_096.jpg)
+
+Ahí puedes pulsar añadir cuenta para crear una nueva:
+
+![](/assets/Usuarios y grupos_097.jpg)
+
+
 ### Perfil del Usuario en Linux. Permisos {#perfil-del-usuario-en-linux-permisos}
 
-Cada usuario en Vitalinux tan sólo es propietario del perfil que le pertenece. Se entiendo por perfil el conjunto de directorios y archivos del cual es el propio usuario el propietario, y que por defecto se corresponde con el contenido del directorio ubicado en /home/&lt;nombre-usuario&gt;.
+Cada usuario en Linux tan sólo es propietario del perfil que le pertenece. Se entiende por perfil el conjunto de directorios y archivos del cual es el propio usuario el propietario, y que por defecto se corresponde con el contenido del directorio ubicado en /home/&lt;nombre-usuario&gt;.
 
 El perfil de un usuario esta compuesto por un conjunto de directorios visibles que le pertenecen y que puede modificar
 
