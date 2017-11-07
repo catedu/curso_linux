@@ -1,9 +1,5 @@
 ## Propietarios y Permisos. {#propietarios-y-permisos}
 
-### ![](/images/image16.png)
-
-###  {#-0}
-
 ### Usuarios de Linux {#usuarios-de-linux}
 
 A diferencia de otros sistemas operativos como Windows, por cuestiones de seguridad, las distribuciones Linux como Linux mint no permiten iniciar sesión en el sistema con la cuenta de root o superusuario. De esta forma Linux se asegura de que si un software malicioso accede al sistema (virus, gusano, etc.) no tendrá privilegios en la sesión iniciada para afectar al sistema de ficheros del equipo, pudiendo alterar únicamente a las carpetas y archivos que le pertenecen al usuario que ha iniciado sesión.
@@ -12,7 +8,13 @@ Esta es la razón por la que el sistema operativo va a estar pidiéndote la cont
 
 Para gestionar los usuarios, crearlos y otorgarles permisos, así como para cambiar tu perfil, debes abrir "**Usuarios y grupos**"
 
+![](/images/image16.png)
+
+
+
 ![](/assets/Usuarios y grupos_096.jpg)
+
+
 
 Ahí puedes pulsar añadir cuenta para crear una nueva.
 
