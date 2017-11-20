@@ -4,7 +4,7 @@ Sabiendo las distintas opciones que tenemos para trabajar con Linux, llega el mo
 
 ### En VirtualBox instalando {#en-virtualbox-instalando}
 
-El proceso que verás explicado por Arturo Martín en el siguiente vídeo funciona ndependientemente de la opción que hayas elegido (Linux Mint, Vitalinux o cualquier otra distribución).
+El proceso que verás explicado por Arturo Martín en el siguiente vídeo funciona     independientemente de la opción que hayas elegido (Linux Mint, Vitalinux o cualquier otra distribución).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NsVrwUFeYrc?rel=0" frameborder="0" allowfullscreen></iframe>
 
