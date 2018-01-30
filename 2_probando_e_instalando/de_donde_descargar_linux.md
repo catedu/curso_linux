@@ -1,4 +1,4 @@
-****## De dónde descargar Linux. {#de-d-nde-descargar-linux}
+## De dónde descargar Linux. {#de-d-nde-descargar-linux}
 
 ### ¿Qué es una Imagen ISO? {#qu-es-una-imagen-iso}
 
