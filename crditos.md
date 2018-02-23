@@ -5,3 +5,5 @@ El contenido de este curso ha sido realizado extrayendo su contenido de fuentes 
 Los textos originales del curso de Vitalinux fueron desarrollados por:
 * Arturo Martín Romero
 * Ignacio Sancho
+
+{% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
