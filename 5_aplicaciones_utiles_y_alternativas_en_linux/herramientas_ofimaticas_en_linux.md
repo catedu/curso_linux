@@ -18,7 +18,8 @@ También dispones de un [curso muy completo de libreoffice](https://www.google.c
 
 También puedes ver este breve videotutorial que recorre la libreoffice.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aFhaICBs3Z4?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=aFhaICBs3Z4?rel=0{% endyoutube %}
 
 ### Google Drive {#google-drive}
 

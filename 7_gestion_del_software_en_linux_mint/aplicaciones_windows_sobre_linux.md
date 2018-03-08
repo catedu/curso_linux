@@ -25,7 +25,8 @@ Para saber más sobre Wine se recomienda dirigirse a los siguientes enlaces:
 
 Puedes observar cómo usar wine en este videotutorial:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_e9FvVcEXIk?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=_e9FvVcEXIk?rel=0{% endyoutube %}
 
 ### Instalar Aplicaciones Windows sobre Linux Mint mediante PlayOnLinux {#instalar-aplicaciones-windows-sobre-linux-mint-mediante-playonlinux}
 
@@ -51,4 +52,5 @@ Play on linux está disponible también en el Gestor de Software:
 Puede aprender cómo usar PlayOnLinux en este videotutorial:
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wULZ-xa3Om0?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=wULZ-xa3Om0?rel=0{% endyoutube %}

@@ -29,7 +29,8 @@ La configuración de una impresora en Linux/Vitalinux es muy sencillo. A continu
 
 Todo lo anterior está explicado en el siguiente videotutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yuUDWJwABbM?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=yuUDWJwABbM?rel=0{% endyoutube %}
 
 ### ¿Cómo configurar un escáner USB en Vitalinux? {#c-mo-configurar-un-esc-ner-usb-en-vitalinux}
 
@@ -45,4 +46,5 @@ La aplicación Simple Scan nos informará en caso de que no detecte ningún esc�
 
 Puedes ver la explicación en este videotutorial: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-A6CX4exyeg?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=-A6CX4exyeg?rel=0{% endyoutube %}

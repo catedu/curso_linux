@@ -21,7 +21,8 @@ Para poder crear un videotutorial puedes emplear muchos métodos:
 
 Si quieres más información sobre el uso de ésta herramienta, puedes consultarla en el siguiente vídeo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0afD0UQCbiI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=0afD0UQCbiI?rel=0{% endyoutube %}
 
 ### Presentaciones Visuales tipo Prezi mediante Sozi {#presentaciones-visuales-tipo-prezi-mediante-sozi}
 
@@ -31,7 +32,8 @@ Dos de las aplicaciones multimedia disponibles en Linux sonInkscape (maneja imá
 
 La explicación está detallada en este videotutorial:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pUeT6Pm5iig?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=pUeT6Pm5iig?rel=0{% endyoutube %}
 
 ### Creación y Edición de Vídeo mediante PhotofilmStrip &amp; OpenShot {#creaci-n-y-edici-n-de-v-deo-mediante-photofilmstrip-openshot}
 
@@ -60,4 +62,5 @@ Existen dos alternativas a los clásicos programas usados en Windows para la cre
 
 Tienes este proceso detallado en este videotutorial:  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i4apQYgv1Vk?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=i4apQYgv1Vk?rel=0{% endyoutube %}

@@ -22,7 +22,8 @@ Para interactuar con Synaptic simplemente debemos lanzarlo buscando Synaptic
 
 Este videotutorial resume este apartado: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nni5ikg11Q?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=1nni5ikg11Q?rel=0{% endyoutube %}
 
 ### Gestor de Software {#gestor-de-software}
 

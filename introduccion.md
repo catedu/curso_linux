@@ -11,8 +11,10 @@ Trata de elaborar una idea personal sobre estas dos preguntas antes de continuar
 
 Charla TED ‘Más allá del software, software libre, [Agustín Benito Bethencourt](https://www.google.com/url?q=https://www.linkedin.com/in/toscalix/&sa=D&ust=1509364089061000&usg=AFQjCNFJ7rww2yzR3uzU9yr0Rl8r4o4F6g).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KVGanTNSyAY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=KVGanTNSyAY?rel=0{% endyoutube %}
 
 Comunicación de [Richard Stallman](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Richard_Stallman&sa=D&ust=1509364089062000&usg=AFQjCNGdtGAKFADOHU6JHeW1bYK-VjpNwQ)  ¿Software Libre o Software privativo? Software Privativo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaL1Q6omiZs?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{% youtube %}https//www.youtube.com/watch?v=LaL1Q6omiZs?rel=0{% endyoutube %}
