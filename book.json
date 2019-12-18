@@ -1,1 +1,21 @@
-{"plugins": ["youtube", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/curso_linux/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "curso_linux"}}}
+{
+  "plugins": [
+    "youtube",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/curso_linux/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "curso_linux"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
