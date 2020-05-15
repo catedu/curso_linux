@@ -1,0 +1,813 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Cómo probar Linux · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-githubcontributors/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="primer_arranque.html" />
+    
+    
+    <link rel="prev" href="de_donde_descargar_linux.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introducción
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../objetivos-y-contenidos.html">
+            
+                <a href="../objetivos-y-contenidos.html">
+            
+                    
+                    Objetivos y contenidos
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">1. ¿De qué va esto?</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="../introduccion.html">
+            
+                <a href="../introduccion.html">
+            
+                    
+                    Un poco de inspiración
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="../1de_que_va_esto/software_libre.html">
+            
+                <a href="../1de_que_va_esto/software_libre.html">
+            
+                    
+                    Software libre
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3" data-path="../1de_que_va_esto/que_es_linux.html">
+            
+                <a href="../1de_que_va_esto/que_es_linux.html">
+            
+                    
+                    ¿Qué es Linux?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4" data-path="../1de_que_va_esto/historia.html">
+            
+                <a href="../1de_que_va_esto/historia.html">
+            
+                    
+                    Historia
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5" data-path="../1de_que_va_esto/componentes.html">
+            
+                <a href="../1de_que_va_esto/componentes.html">
+            
+                    
+                    Componentes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6" data-path="../1de_que_va_esto/distribuciones.html">
+            
+                <a href="../1de_que_va_esto/distribuciones.html">
+            
+                    
+                    Distribuciones
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7" data-path="../1de_que_va_esto/que_distribucion_escogemos.html">
+            
+                <a href="../1de_que_va_esto/que_distribucion_escogemos.html">
+            
+                    
+                    ¿Qué distribución escogemos?
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">2. Probando e instalando</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="de_donde_descargar_linux.html">
+            
+                <a href="de_donde_descargar_linux.html">
+            
+                    
+                    De dónde descargar Linux.
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="3.2" data-path="como_probar_linux.html">
+            
+                <a href="como_probar_linux.html">
+            
+                    
+                    Cómo probar Linux
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3" data-path="primer_arranque.html">
+            
+                <a href="primer_arranque.html">
+            
+                    
+                    Primer arranque
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">3. Familiarizándonos con el escritorio</li>
+        
+        
+    
+        <li class="chapter " data-level="4.1" data-path="../3_familiarizandonos_con_el_escritorio/explorador_de_archivos_caracteristicas_y_funcional.html">
+            
+                <a href="../3_familiarizandonos_con_el_escritorio/explorador_de_archivos_caracteristicas_y_funcional.html">
+            
+                    
+                    Explorador de Archivos: Características y Funcionalidades
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2" data-path="../3_familiarizandonos_con_el_escritorio/propietarios_y_permisos.html">
+            
+                <a href="../3_familiarizandonos_con_el_escritorio/propietarios_y_permisos.html">
+            
+                    
+                    Propietarios y Permisos
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.3" data-path="../3_familiarizandonos_con_el_escritorio/dispositivos_de_almacenamiento.html">
+            
+                <a href="../3_familiarizandonos_con_el_escritorio/dispositivos_de_almacenamiento.html">
+            
+                    
+                    Dispositivos de Almacenamiento
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">4. Gestión del Software</li>
+        
+        
+    
+        <li class="chapter " data-level="5.1" data-path="../4_gestion_del_software/">
+            
+                <a href="../4_gestion_del_software/">
+            
+                    
+                    ¿Cómo se organiza el Software?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.2" data-path="../4_gestion_del_software/origenes_del_software_repositorios_y_actualizacion.html">
+            
+                <a href="../4_gestion_del_software/origenes_del_software_repositorios_y_actualizacion.html">
+            
+                    
+                    Orígenes del Software (Repositorios) y Actualizaciones en Vitalinux
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.3" data-path="../4_gestion_del_software/instalando_y_desinstalando_aplicaciones.html">
+            
+                <a href="../4_gestion_del_software/instalando_y_desinstalando_aplicaciones.html">
+            
+                    
+                    Instalando y desinstalando aplicaciones
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.4" data-path="../4_gestion_del_software/aplicaciones_windows_sobre_linux.html">
+            
+                <a href="../4_gestion_del_software/aplicaciones_windows_sobre_linux.html">
+            
+                    
+                    Aplicaciones Windows sobre Linux
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">5. Aplicaciones útiles y alternativas en Linux</li>
+        
+        
+    
+        <li class="chapter " data-level="6.1" data-path="../5_aplicaciones_utiles_y_alternativas_en_linux/acciones_del_explorador_de_archivos.html">
+            
+                <a href="../5_aplicaciones_utiles_y_alternativas_en_linux/acciones_del_explorador_de_archivos.html">
+            
+                    
+                    Acciones del Explorador de Archivos
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.2" data-path="../5_aplicaciones_utiles_y_alternativas_en_linux/aplicaciones_multimedia.html">
+            
+                <a href="../5_aplicaciones_utiles_y_alternativas_en_linux/aplicaciones_multimedia.html">
+            
+                    
+                    Aplicaciones Multimedia
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.3" data-path="../5_aplicaciones_utiles_y_alternativas_en_linux/herramientas_ofimaticas_en_linux.html">
+            
+                <a href="../5_aplicaciones_utiles_y_alternativas_en_linux/herramientas_ofimaticas_en_linux.html">
+            
+                    
+                    Herramientas Ofimáticas en Linux
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.4" data-path="../5_aplicaciones_utiles_y_alternativas_en_linux/gestion_de_escaneres_e_impresoras.html">
+            
+                <a href="../5_aplicaciones_utiles_y_alternativas_en_linux/gestion_de_escaneres_e_impresoras.html">
+            
+                    
+                    Gestión de Escáneres e impresoras
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">6. Familiarizándonos con el escritorio de Linux Mint</li>
+        
+        
+    
+        <li class="chapter " data-level="7.1" data-path="../6_familiarizandonos_con_el_escritorio_de_linux_min/escritorio-linux-mint.html">
+            
+                <a href="../6_familiarizandonos_con_el_escritorio_de_linux_min/escritorio-linux-mint.html">
+            
+                    
+                    Escritorio Linux Mint
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.2" data-path="../6_familiarizandonos_con_el_escritorio_de_linux_min/explorador_de_archivos_caracteristicas_y_funcional.html">
+            
+                <a href="../6_familiarizandonos_con_el_escritorio_de_linux_min/explorador_de_archivos_caracteristicas_y_funcional.html">
+            
+                    
+                    Explorador de Archivos: Características y Funcionalidades
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.3" data-path="../6_familiarizandonos_con_el_escritorio_de_linux_min/propietarios_y_permisos.html">
+            
+                <a href="../6_familiarizandonos_con_el_escritorio_de_linux_min/propietarios_y_permisos.html">
+            
+                    
+                    Propietarios y Permisos.
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.4" data-path="../6_familiarizandonos_con_el_escritorio_de_linux_min/dispositivos_de_almacenamiento.html">
+            
+                <a href="../6_familiarizandonos_con_el_escritorio_de_linux_min/dispositivos_de_almacenamiento.html">
+            
+                    
+                    Dispositivos de Almacenamiento
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.5" data-path="../6_familiarizandonos_con_el_escritorio_de_linux_min/escritorio-extendido.html">
+            
+                <a href="../6_familiarizandonos_con_el_escritorio_de_linux_min/escritorio-extendido.html">
+            
+                    
+                    Escritorio extendido
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">7. Gestión del Software</li>
+        
+        
+    
+        <li class="chapter " data-level="8.1" data-path="../7_gestion_del_software_en_linux_mint/">
+            
+                <a href="../7_gestion_del_software_en_linux_mint/">
+            
+                    
+                    En Linux Mint
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.2" data-path="../7_gestion_del_software_en_linux_mint/origenes_del_software_repositorios.html">
+            
+                <a href="../7_gestion_del_software_en_linux_mint/origenes_del_software_repositorios.html">
+            
+                    
+                    Orígenes del Software (Repositorios)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.3" data-path="../7_gestion_del_software_en_linux_mint/instalando_y_desinstalando_aplicaciones.html">
+            
+                <a href="../7_gestion_del_software_en_linux_mint/instalando_y_desinstalando_aplicaciones.html">
+            
+                    
+                    Instalando y desinstalando aplicaciones
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.4" data-path="../7_gestion_del_software_en_linux_mint/actualizaciones_en_linux.html">
+            
+                <a href="../7_gestion_del_software_en_linux_mint/actualizaciones_en_linux.html">
+            
+                    
+                    Actualizaciones en Linux
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.5" data-path="../7_gestion_del_software_en_linux_mint/aplicaciones_windows_sobre_linux.html">
+            
+                <a href="../7_gestion_del_software_en_linux_mint/aplicaciones_windows_sobre_linux.html">
+            
+                    
+                    Aplicaciones Windows sobre Linux
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.6" data-path="../7_gestion_del_software_en_linux_mint/consola_de_linux.html">
+            
+                <a href="../7_gestion_del_software_en_linux_mint/consola_de_linux.html">
+            
+                    
+                    Consola de Linux
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">8. Aplicaciones útiles y alternativas en Linux Mint</li>
+        
+        
+    
+        <li class="chapter " data-level="9.1" data-path="../8_aplicaciones_utiles_y_alternativas_en_linux_mint/">
+            
+                <a href="../8_aplicaciones_utiles_y_alternativas_en_linux_mint/">
+            
+                    
+                    Aplicaciones útiles y alternativas en Linux Mint
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="9.2" data-path="../8_aplicaciones_utiles_y_alternativas_en_linux_mint/aplicaciones_multimedia.html">
+            
+                <a href="../8_aplicaciones_utiles_y_alternativas_en_linux_mint/aplicaciones_multimedia.html">
+            
+                    
+                    Aplicaciones Multimedia
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="9.3" data-path="../8_aplicaciones_utiles_y_alternativas_en_linux_mint/herramientas_ofimaticas_en_linux.html">
+            
+                <a href="../8_aplicaciones_utiles_y_alternativas_en_linux_mint/herramientas_ofimaticas_en_linux.html">
+            
+                    
+                    Herramientas Ofimáticas en Linux
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="9.4" data-path="../8_aplicaciones_utiles_y_alternativas_en_linux_mint/gestion_de_escaneres_e_impresoras.html">
+            
+                <a href="../8_aplicaciones_utiles_y_alternativas_en_linux_mint/gestion_de_escaneres_e_impresoras.html">
+            
+                    
+                    Gestión de Escáneres e impresoras
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="9.5" data-path="../crditos.html">
+            
+                <a href="../crditos.html">
+            
+                    
+                    Créditos
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Cómo probar Linux</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h2 id="c-mo-probar-linux">C&#xF3;mo probar Linux </h2>
+<p>Una vez hemos descargado la imagen ISO tenemos diferentes posibilidades/opciones para poder probar Linux y establecer un primer contacto con &#xE9;l. &#xC9;sta decisi&#xF3;n es importante, ya que una distribuci&#xF3;n Linux no es una aplicaci&#xF3;n sin m&#xE1;s que podamos instalar y desinstalar ... sino un Sistema Operativo completo. Entre todas las opciones destacaremos tres:</p>
+<p><strong>OPCI&#xD3;N 1: Modo Live</strong></p>
+<p>Puedes hacer las pruebas en tu propio ordenador iniciando la distribuci&#xF3;n que hayas escogido en modo Live. </p>
+<p>El modo Live es una posibilidad que nos ofrece Linux para probar sus sistema operativos sin tener que instalarlos en el disco duro de nuestro equipo. Para ello ser&#xE1; necesario pasar el archivo ISO con la imagen de Linux a un DVD o memoria USB, y posteriormente indicarle a nuestro equipo que arranque desde ese DVD o USB (el DVD o USB har&#xE1; las veces de disco duro de la m&#xE1;quina.</p>
+<p>&#xC9;sta opci&#xF3;n es recomendada cuando quieres tener una primera experiencia de uso de un sistema operativo Linux, pero no para un uso habitual del sistema ya que normalmente son sesiones de uso no persistentes (<strong>tras trabajar en modo Live, cuando se apaga el equipo se pierden todos los datos</strong>, todos los cambios realizados o personalizaciones realizadas).</p>
+<p>No obstante, <strong>se puede grabar un USB arrancable (bootable) con persistencia de datos</strong>, lo que nos permitir&#xE1; utilizar Linux en el usb sin perder las modificaciones que vayamos haciendo (instalaci&#xF3;n de programas, edici&#xF3;n y guardado de ficheros&#x2026;) hasta 4 GB de almacenamiento l&#xED;mite. En cualquier caso seguir&#xE1;s necesitando acceder a la BIOS para poder arrancar el ordenador desde el USB.</p>
+<p>En esta presentaci&#xF3;n puedes ver c&#xF3;mo crear un USB arrancable con persistencia para Linux Mint.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTlCLRV5ZkGHxUQNEScDQoJgiKd1d-ffI0c_pVJZOBSkXfEBJgSNo5UPIytnUggF0cqoEctj5yWiMn/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<p><strong> OPCI&#xD3;N 2: Instalar Linux en un equipo.</strong></p>
+<p>Esta es la opci&#xF3;n m&#xE1;s recomendable cuando tenemos claro que Linux va a ser nuestro sistema operativo de trabajo de ahora en adelante.</p>
+<p>Al instalar Linux en el disco duro de tu equipo tendr&#xE1;s la opci&#xF3;n de eliminar todo lo que all&#xED; exista y hacer una instalaci&#xF3;n limpia, o hacer una instalaci&#xF3;n dual para tener la opci&#xF3;n de poder seguir trabajando tanto con el sistema operativo que ya tengas instalado (p.e. Windows 7) y Linux. </p>
+<p>Si deseas hacer uso de esta opci&#xF3;n y dudas si usar tu equipo personal, puedes usar otro ordenador diferente, puedes usar otro ordenador que tengas de pruebas, alguno del centro educativo en el que trabajas o un equipo antiguo que no sepas qu&#xE9; uso darle.</p>
+<p><strong> OPCI&#xD3;N 3: Usar un <a href="https://www.google.com/url?q=http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Vitalinux_con_VirtualBox&amp;sa=D&amp;ust=1509364089144000&amp;usg=AFQjCNHHUgxZncbRwgCY4oIgjHR7UQSUFQ" target="_blank">software de Virtualizaci&#xF3;n</a> como VirtualBox.</strong></p>
+<p>  &#xC9;sta &#xFA;ltima opci&#xF3;n es la m&#xE1;s recomendable para tener un primer contacto con Linux, poder probarlo en toda su plenitud e incluso seguir trabajando con &#xE9;l en un futuro. </p>
+<p>  Este tipo de software (p.e. Virtualbox), permite crear dentro de nuestro equipo M&#xE1;quinas Virtuales que posteriormente podemos eliminar, al igual que eliminamos cualquier otro archivo de nuestro sistema, y sobre las cuales podemos instalar el sistema operativo que deseemos probar. En concreto, haciendo uso de estas m&#xE1;quinas virtuales tendremos exactamente las mismas posibilidades que tendr&#xED;amos con un equipo f&#xED;sico: probar Linux en modo live o instalarlo en su disco duro Virtual, y todo ello sin tener que temer que le ocurra nada a nuestro equipo.</p>
+<p><strong>Antes de hacer una instalaci&#xF3;n de un nuevo sistema operativo aseg&#xFA;rate muy bien de tener copia de seguridad de todos los archivos  que quieras conservar.</strong></p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="de_donde_descargar_linux.html" class="navigation navigation-prev " aria-label="Previous page: De dónde descargar Linux.">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="primer_arranque.html" class="navigation navigation-next " aria-label="Next page: Primer arranque">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Cómo probar Linux","level":"3.2","depth":1,"next":{"title":"Primer arranque","level":"3.3","depth":1,"path":"2_probando_e_instalando/primer_arranque.md","ref":"2_probando_e_instalando/primer_arranque.md","articles":[]},"previous":{"title":"De dónde descargar Linux.","level":"3.1","depth":1,"path":"2_probando_e_instalando/de_donde_descargar_linux.md","ref":"2_probando_e_instalando/de_donde_descargar_linux.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["youtube","edit-link","githubcontributors","ga"],"pluginsConfig":{"youtube":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"curso_linux"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/curso_linux/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"2_probando_e_instalando/como_probar_linux.md","mtime":"2020-05-15T12:00:14.641Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-05-15T12:00:49.782Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-edit-link/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-githubcontributors/contributors.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-ga/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
